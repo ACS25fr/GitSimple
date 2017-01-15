@@ -1,2 +1,6 @@
 # GitSimple
-"Open Classroom - Git &amp; Github - PArtie 2 Activité"
+"Open Classroom - Git & Github - Partie 2 Activité"
+
+Correction d'erreur de frappe. 
+
+Première modification
